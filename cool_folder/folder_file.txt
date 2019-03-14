@@ -1,1 +1,2 @@
 This text is found inside a folder!
+This line was added on branch "newbranch"
